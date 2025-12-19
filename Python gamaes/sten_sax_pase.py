@@ -50,3 +50,4 @@ resultat_label = tk.Label(root, text="Resultat: -", font=("Arial", 12, "bold"))
 resultat_label.pack(pady=10)
 
 root.mainloop()
+# test
